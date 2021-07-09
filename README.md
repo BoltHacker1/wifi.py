@@ -34,6 +34,8 @@ Installation
 
 Install wifi.py :
 
-git clone https://github.com/SANJAYSANJAY329/wifi.py.git
+git clone https://github.com/SANJAYSANJAY329/wifi.py.git\
+
 cd wifi.py
+
 ./wifi.py 
