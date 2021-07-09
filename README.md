@@ -24,16 +24,16 @@ python.exe main.py
 
 AND HIT ENTER AND YOU SEE THE SAVE PASSWORD 
 
- LINUX DOWNLOADS
+ LINUX -:
  
  
- 
- OPEN TERMINAL 
- 
- git clone https://github.com/SANJAYSANJAY329/wifi.py.git
- 
- cd wifi.py
- 
- chmod +x main.py
- 
- pthon3 main.py and ./main.py
+💡 Prerequisite
+
+Python 3
+Installation
+
+Install wifi.py :
+
+git clone https://github.com/SANJAYSANJAY329/wifi.py.git
+cd wifi.py
+./wifi.py 
