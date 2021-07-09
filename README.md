@@ -4,11 +4,13 @@
 
 THIS TOOL IS USED FOR SAVE WIFI PASSWORD IN YOUR COMPUTER SHOW FOR COMMANDS PROMT / TERMINAL
 
+Prerequisite
 
+Python 3
 
 # HOW TO DOWNLOADS
 
-WINDOWS -
+WINDOWS -:
 
 FIRST DOWNLOADS PYTHON NEW VIRSION IN WINDOWS 7,8,10 
 
@@ -24,12 +26,10 @@ python.exe main.py
 
 AND HIT ENTER AND YOU SEE THE SAVE PASSWORD 
 
- LINUX -:
- 
- 
-💡 Prerequisite
 
-Python 3
+LINUX -:
+ 
+
 Installation
 
 Install wifi.py :
