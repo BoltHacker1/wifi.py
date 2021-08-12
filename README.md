@@ -38,4 +38,7 @@ git clone https://github.com/SANJAYSANJAY329/wifi.py.git\
 
 cd wifi.py
 
-./wifi.py 
+chmod +x main.py
+
+./main.py & python main.py
+
